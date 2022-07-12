@@ -1,0 +1,8 @@
+//In server
+npm init
+npm i express mongoose nodemon socket.io bcrypt cors dotenv
+
+in public:
+yarn add axios styled-components react-router-dom
+
+npm add toastify
